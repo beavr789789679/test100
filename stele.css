@@ -1,0 +1,8 @@
+h1{
+    position: absolute;
+    color: white;
+    font-family: Nunito;
+    margin: 350px;
+    font-size: 30pt
+}
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@200&display=swap');
